@@ -1,0 +1,21 @@
+body{
+    background-color: steelblue;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+h1{
+    color: #fff;
+    font-size: 3.5rem;
+}
+
+p{
+    font-size: 2rem;
+    color: #fff;
+}
