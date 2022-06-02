@@ -24,3 +24,12 @@ p{
     font-size: 2rem;
     color: #fff;
 }
+
+@media screen and (max-width: 665px) {
+    body, p, h1{
+        color: steelblue;
+        background-color: white;
+    }
+    
+}
+
